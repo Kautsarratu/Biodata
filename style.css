@@ -59,8 +59,8 @@ table,th, td{
 th{background-color: #162447;}
 td{background-color:#ffacb7}
 table{width:100%;}
-img{
-	float: left;
+img{position: absolute;
+    float: left;
     right: 55px;
     top: 165px;
     border: 5px #ffe0ac;}
