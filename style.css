@@ -60,7 +60,7 @@ th{background-color: #162447;}
 td{background-color:#ffacb7}
 table{width:100%;}
 img{position: absolute;
-    float: left;
+    float: right;
     right: 55px;
     top: 165px;
     border: 5px #ffe0ac;}
